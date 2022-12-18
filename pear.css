@@ -1,0 +1,82 @@
+body{
+    background:black;
+}
+
+.container {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    display: flex;
+    gap: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items:center ;
+    justify-content:space-between;
+    border: 2px solid rgb(32, 32, 32);
+}
+
+.rer{
+    width: 50px;
+    margin-left:2%;
+    margin-right: 0%;
+}
+
+.nom{
+    margin-left: 0%;
+    margin-right: auto;
+}
+.menu{
+    color: white;
+}
+
+.carac{
+    color:white
+}
+
+.ach{
+    margin-right: 2%;
+}
+.acheter{
+    color: white;
+}
+
+
+
+
+
+.fe{
+    color:rgb(245, 245, 245);
+    font-size: 400%;
+    text-align: center;
+}
+
+p {
+    color:rgb(141, 141, 141);
+    font-size: 40px;
+    text-align: left;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+    width: 60%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
