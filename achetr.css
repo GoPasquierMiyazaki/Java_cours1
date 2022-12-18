@@ -1,0 +1,145 @@
+body{
+    background:white;
+    transform: rotate(0deg);
+    transition: all 3s;
+    opacity: 0 ;
+}
+
+p {
+    color:black;
+    font-size: 69px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    gap: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items:center ;
+    justify-content:space-between;
+    border: 2px solid rgb(32, 32, 32);
+}
+
+.rer{
+    width: 50px;
+    margin-left:2%;
+    margin-right: 0%;
+}
+
+.nom{
+    margin-left: 0%;
+    margin-right: auto;
+}
+.menu{
+    color: black;
+}
+
+.carac{
+    color:black
+}
+
+.ach{
+    margin-right: 2%;
+}
+.acheter{
+    color: black;
+}
+
+
+
+
+
+
+
+.fe{
+    font-size: 250%;
+    margin-left: 10%;
+}
+.nme{
+    font-size: 250%;
+    margin-left: 10%;
+}
+
+
+
+.achat {
+    font-family: 'Roboto', sans-serif;
+    background-color:rgb(245, 245, 245);
+    display: flex;
+    gap: 5%;
+    margin-bottom: 5%;
+    align-items:center ;
+    justify-content:space-between;
+    border: 2px solid rgb(32, 32, 32);
+}
+
+.RR1{
+    font-size: 100%;
+    margin-left: 3%;
+}
+.ahc{
+    color: rgb(141, 141, 141);
+    font-size: 180%;
+}
+
+.RR2{
+    font-size: 100%;
+    margin-right: 3%;
+}
+.ahc2{
+    color: rgb(141, 141, 141);
+    font-size: 180%;
+}
+
+
+
+
+
+
+
+
+
+
+
+img{
+    width: 60%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+.woohoo {
+    filter: invert(100%);
+    background-color: rgb(0, 0, 0);
+    transform: rotate(360deg);
+    transition: all 4s;
+}
+
+.fondu{
+    opacity: 100 ;
+    transition: all 4s;
+}
+
+
+.SelectAll {
+    transform: rotate(-360deg);
+    transition: all 4s;
+}
