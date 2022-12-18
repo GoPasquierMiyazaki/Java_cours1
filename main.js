@@ -10,6 +10,6 @@ buttonDL.addEventListener("click", function() {
 
 
 const para = document.createElement("h2");
-para.innerText = "Text random en JavaScript";
+para.innerText = "Bienvenue";
 const element = document.getElementById("textJAVA");
 element.appendChild(para);
